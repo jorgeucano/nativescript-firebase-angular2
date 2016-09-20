@@ -1,0 +1,1 @@
+# nativescript-firebase-angular2
